@@ -1,0 +1,173 @@
+body 
+{
+	/*background-image:url(pattern.png);
+	background-position:center top;*/
+	background-color: white;
+	z-index:-1;
+	background-repeat:repeat;
+	overflow-x: hidden;
+}
+
+@font-face {
+    font-family: "I am online with u";
+    src: url(http://www.blakerego.com/michelle/I_am_online_with_u.ttf) format("truetype");
+}
+.h2
+{
+	color:black;
+	font-size:24px;
+	font-family:helvetica;
+}
+
+a.navbar:link, a.navbar:visited 
+{	font-weight:lighter;
+	font-family:helvetica;
+	color:white; 
+	letter-spacing:1px;
+	background-color:black;
+	text-align:center;
+	padding:5px;
+	text-decoration:none;
+	text-transform:uppercase;
+
+}
+#navbar
+{
+	left : 0px ;
+ 	top : 90px ;
+  	width : 100% ;
+  	position:absolute;
+  	z-index:8;
+}
+#navbar ul
+{
+	margin:0; 
+	padding:0; 
+	list-style:none;
+	display: inline-block;
+    list-style-type: none;
+}
+#navbar a
+{
+	display:block;
+
+}
+#navbar li 
+{
+	padding:1px;
+	float:left;
+	width:10em;
+	position:relative;
+
+}
+#navbar li ul
+{
+	display:none;
+}
+#navbar li:hover ul
+{
+
+	display:block;
+	width:10em;
+	position:absolute;
+	right:2px;
+}
+div.content
+{
+	clear:center;
+}
+.outerbox
+{
+	border: solid 10px none;
+	position:relative;
+	width:820px;
+	height:800px;
+	top:20px;
+	z-index:0;
+	left:180px;
+	right:180px;
+}
+.bodybox
+{
+    /*border: solid 10px blue; */
+    position: absolute;
+    top: 118px;
+    bottom: 0;
+    left: -10px;
+    right: 0;
+}
+.textbox
+{
+	position: absolute;
+	left:510px;
+	top:100px;
+	right: 0;
+	bottom:237px;
+}
+.footerbox
+{
+	border:solid 12px black;
+	position:absolute;
+	top:480px;
+	left:4px;
+	width:96%;
+}
+img.float_left
+{
+	
+	top:100px;
+	left:14px;
+	position:absolute;
+}
+#intro
+{
+	font-style:italic;
+	font-size:16px;
+	color:black;
+	font-family:helvetica;
+}
+ul.gallery 
+{ 
+    display: block; 
+    text-align:center; 
+}
+ul.gallery li 
+{       
+    display: inline-block; 
+}
+ul.writing
+{
+	display:block;
+	text-align:left;
+}	
+.myCanvas
+{
+    width: 1000px;
+    height: 900px;
+}
+.myCanvasContainer
+{
+    z-index:6;
+    position:absolute;
+    top:0px;
+    left:-90px;
+    //border:solid 1px blue;
+    width:1000px;
+    bottom:10px;
+}
+.h1 
+{
+    color:black;
+    font-size:90px;
+    font-family:I am online with u;
+    
+    padding:1px;
+    position:absolute;
+    text-shadow: 4px 4px 4px #aaa;
+    top:0px;
+    font-family: "i am online with u", Verdana, Tahoma;
+    text-align:center;
+    //border: solid 1px red;
+    z-index:5;
+    width: 100%;
+}

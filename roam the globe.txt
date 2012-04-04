@@ -1,0 +1,104 @@
+<html>
+
+<head>
+<title>Roam the Globe hi
+</title>
+</head>
+
+<body>
+<center>
+<body bgcolor="000000">
+
+<font color="48D1CC">
+<h1 font style="font-size: 30pt; font-family: "verdana">
+Roam the Globe
+</font>
+</h1>
+
+<font color="FFFFF0">
+<font style="font-size: 16pt; font face="strong"; font-family: arial">
+<em>A Photographic Journal of Michelle Rittner's 	Travels </em> 
+</font>
+
+<br>
+<br>
+<br>
+<br>
+
+<a href="Asia 473.jpg"><img src="Asia 473.jpg" border="0" width="200"height="150"Hspace="10"></a>
+<a href="Asia 185.jpg"><img src="Asia 185.jpg" border="0" width="200" height="150" Hspace="10"></a>
+<a href="Ecuador 04 038.jpg"><img src="Ecuador 04 038.jpg" border="0" width="200" height="150" Hspace="10"></a>
+<a href="Ecuador 04 126.jpg"><img src="Ecuador 04 126.jpg" border="0" width="200" height="150" Hspace="10"></a>
+<a href="flamingos.jpg"><img src="flamingos.jpg" border="0" width="200" height="150"Hspace="10"></a>
+
+<br>
+
+<a href="Asia 371.jpg"><img src="Asia 371.jpg" border="0" width="200" height="150" Hspace="10" Vspace="10"></a>
+<a href="Asia 030.jpg"><img src="Asia 030.jpg" border="0" width="200" height="150" Hspace="10" Vspace="10"></a>
+<a href="KICX0456.jpg"><img src="KICX0456.jpg" border="0" width="200" height="150" Hspace="10" Vspace="10"></a>
+<a href="signature 087.jpg"><img src="signature 087.jpg" border="0" width="200" height="150" Hspace="10" Vspace="10"></a>
+<a href="signature 161.jpg"><img src="signature 161.jpg" border="0" width="200" height="150" Hspace="10" Vspace="10"></a>
+
+<br>
+<a href="Republica Dominicana 054.jpg"><img src="Republica Dominicana 054.jpg" border="0" width="200" height="150" Hspace="10" Vspace="10"></a>
+<a href="Republica Dominicana 016.jpg"><img src="Republica Dominicana 016.jpg" border="0" width="200" height="150" Hspace="10" Vspace="10"></a>
+<a href="Ecuador 04 136.jpg"><img src="Ecuador 04 136.jpg" width="200" height="150" border="0" Hspace="10" Vspace="10"></a>
+<a href="signature 769.jpg"><img src="signature 769.jpg"border="0" width="200" height="150" Hspace="10" Vspace="10"></a>
+<a href="signature 369.jpg"><img src="signature 369.jpg" border="0" width="200" height="150" Hspace="10" Vspace="10"></a>
+
+<br>
+<a href="signature 799.jpg"><img src="signature 799.jpg" border="0"width="200" height="150" Hspace="10" Vspace="10"></a> 
+
+<a href="signature 625.jpg"><img src="signature 625.jpg" border="0"width="200" height="150" Hspace="10" Vspace="10"></a>
+<a href="signature 287.jpg"><img src="signature 287.jpg" border="0" width="200" height="150" Hspace="10" Vspace="10"></a> 
+<a href="signature 479.jpg"><img src="signature 479.jpg" border="0" width="200" height="150" Hspace="10" Vspace="10"></a> 
+<a href="Ecuador 04 004.jpg"><img src="Ecuador 04 004.jpg" border="0" width="200" height="150" Hspace="10" Vspace="10"></a> 
+
+<br>
+<a href="signature 228.jpg"> <img src="signature 228.jpg" border="0" width="200" height="150" Hspace="10" Vspace="10"></a> 
+<a href="signature 201.jpg"><img src="signature 201.jpg" border="0" width="200" height="150" Hspace="10" Vspace="10"></a> 
+<a href="signature 178.jpg"><img src="signature 178.jpg" border="0" width="200" height="150" Hspace="10" Vspace="10"></a> 
+<a href="signature 166.jpg"><img src="signature 166.jpg" border="0"width="200" height="150" Hspace="10" Vspace="10"></a> 
+<a href="Ecuador 04 042.jpg"><img src="Ecuador 04 042.jpg" border="0" width="200" height="150" Hspace="10" Vspace="10"></a> 
+
+
+
+<br>
+<a href="signature 154 (2).jpg"><img src="signature 154 (2).jpg" border="0" width="150" height="200" Hspace="10"></a>
+<a href="Asia 463.jpg"><img src="Asia 463.jpg" border="0" width="150" height="200" Hspace="10"></a>
+<a href="KICX0464.jpg"><img src="KICX0464.jpg" border="0" width="150" height="200" Hspace="10"></a>
+<a href="signature 319.jpg"> <img src="signature 319.jpg" border="0" width="150" height="200" Hspace="10"></a>
+
+<a href="Asia 395.jpg"><img src="Asia 395.jpg" border="0" width="150" height="200" Hspace="10"></a>
+
+<br>
+<br>
+<br>
+<form name="my form"
+<action="mailto:"michelle_rittner@brown.edu">
+Email me questions or comments
+<div align="center">
+
+<textarea cols="40" rows="5">
+</textarea>
+<br>
+<input type="submit" value="Submit" align="center">
+<input type="Reset" value="Reset">
+<br>
+<br>
+
+<font color="48D1CC" font-size: "30pt">
+Other Photography Sites:
+</font>
+<br>
+<a href="http://www.pbase.com">PBase</a>
+<a href="http://www.nationalgeographic.com/photography/index.html">National Geographic</a>
+
+
+</center>
+
+
+</body>
+</html>
+
+
