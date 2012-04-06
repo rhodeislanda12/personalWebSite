@@ -2,15 +2,15 @@ var canvas;
 var ctx;
 
 //a is on the left.
-var a = 215;
+var a = 225;
 
 //x is on the right.
-var x = 770;
-var y = 66;
+var x = 779;
+var y = 38;
 var mx = 2;
 var my = 0;
-var WIDTH = 920;
-var HEIGHT = 594;
+var WIDTH = 950;
+var HEIGHT = 565;
 
 
 
