@@ -78,7 +78,7 @@ div.content
 }
 .outerbox
 {
-	border: solid 10px none;
+	/*border: solid 10px red;*/
 	position:relative;
 	width:820px;
 	height:800px;
@@ -89,7 +89,7 @@ div.content
 }
 .bodybox
 {
-    /*border: solid 10px blue; */
+  /*  border: solid 10px blue;*/
     position: absolute;
     top: 118px;
     bottom: 0;
@@ -108,8 +108,8 @@ div.content
 {
 	border:solid 12px black;
 	position:absolute;
-	top:480px;
 	left:4px;
+	bottom:0px;
 	width:96%;
 }
 img.float_left
@@ -194,4 +194,26 @@ ul.writing
     /*border: solid 1px red;*/
     z-index:5;
     width: 100%;
+}
+.tapeHeader
+{
+	z-index:2;
+	position:absolute;
+	top:0px;
+	left:250px;
+}
+.chinaPosition
+{
+	z-index:1;
+	position:absolute;
+	top:50px;
+}
+.ecuadorPosition
+{
+	z-index:1;
+	position:absolute;
+	top:40px;
+	left:370px;
+	-webkit-transform: rotate(15deg);
+	-moz-transform: rotate(15deg);
 }
