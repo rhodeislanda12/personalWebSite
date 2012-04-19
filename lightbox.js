@@ -170,7 +170,7 @@ Lightbox.prototype = {
 		$('prevLink').observe('click', (function(event) { event.stop(); this.changeImage(this.activeImage - 1); }).bindAsEventListener(this));
 		$('nextLink').observe('click', (function(event) { event.stop(); this.changeImage(this.activeImage + 1); }).bindAsEventListener(this));
 		$('loadingLink').observe('click', (function(event) { event.stop(); this.end(); }).bind(this));
-		$('bottomNavClose').observe('click', (function(event) { alert("hello michelle"); event.stop(); this.end(); }).bind(this));
+		$('bottomNavClose').observe('click', (function(event) { event.stop(); this.end(); }).bind(this));
 
         var th = this;
         (function(){
